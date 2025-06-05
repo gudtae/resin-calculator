@@ -1,6 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
+  "homepage": "https://github.com/gudtae/resin-calculator.git",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -28,6 +29,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "homepage": "https://github.com/gudtae/resin-calculator.git"
+  ]
 }
