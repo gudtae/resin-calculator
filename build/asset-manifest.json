@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gudtae/resin-calculator.git/static/css/main.a219a079.css",
+    "main.js": "/gudtae/resin-calculator.git/static/js/main.8ddeeac5.js",
+    "index.html": "/gudtae/resin-calculator.git/index.html",
+    "main.a219a079.css.map": "/gudtae/resin-calculator.git/static/css/main.a219a079.css.map",
+    "main.8ddeeac5.js.map": "/gudtae/resin-calculator.git/static/js/main.8ddeeac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a219a079.css",
+    "static/js/main.8ddeeac5.js"
+  ]
+}
