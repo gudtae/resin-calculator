@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gudtae/resin-calculator.git/static/css/main.a219a079.css",
-    "main.js": "/gudtae/resin-calculator.git/static/js/main.8ddeeac5.js",
-    "index.html": "/gudtae/resin-calculator.git/index.html",
-    "main.a219a079.css.map": "/gudtae/resin-calculator.git/static/css/main.a219a079.css.map",
-    "main.8ddeeac5.js.map": "/gudtae/resin-calculator.git/static/js/main.8ddeeac5.js.map"
+    "main.css": "/resin-calculator/static/css/main.a219a079.css",
+    "main.js": "/resin-calculator/static/js/main.a9c87074.js",
+    "index.html": "/resin-calculator/index.html",
+    "main.a219a079.css.map": "/resin-calculator/static/css/main.a219a079.css.map",
+    "main.a9c87074.js.map": "/resin-calculator/static/js/main.a9c87074.js.map"
   },
   "entrypoints": [
     "static/css/main.a219a079.css",
-    "static/js/main.8ddeeac5.js"
+    "static/js/main.a9c87074.js"
   ]
 }
